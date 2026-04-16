@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HclMockHackthon\\TaskManagementSystemAsp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02DD9B37-54CC-49E8-9D7E-A8853B6C6D95}|TaskManagementSystemAsp\\TaskManagementSystemAsp.csproj|d:\\hclmockhackthon\\taskmanagementsystemasp\\taskmanagementsystemasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DD9B37-54CC-49E8-9D7E-A8853B6C6D95}|TaskManagementSystemAsp\\TaskManagementSystemAsp.csproj|solutionrelative:taskmanagementsystemasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DD9B37-54CC-49E8-9D7E-A8853B6C6D95}|TaskManagementSystemAsp\\TaskManagementSystemAsp.csproj|d:\\hclmockhackthon\\taskmanagementsystemasp\\taskmanagementsystemasp\\migrations\\20260416155903_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DD9B37-54CC-49E8-9D7E-A8853B6C6D95}|TaskManagementSystemAsp\\TaskManagementSystemAsp.csproj|solutionrelative:taskmanagementsystemasp\\migrations\\20260416155903_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DD9B37-54CC-49E8-9D7E-A8853B6C6D95}|TaskManagementSystemAsp\\TaskManagementSystemAsp.csproj|d:\\hclmockhackthon\\taskmanagementsystemasp\\taskmanagementsystemasp\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DD9B37-54CC-49E8-9D7E-A8853B6C6D95}|TaskManagementSystemAsp\\TaskManagementSystemAsp.csproj|solutionrelative:taskmanagementsystemasp\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DD9B37-54CC-49E8-9D7E-A8853B6C6D95}|TaskManagementSystemAsp\\TaskManagementSystemAsp.csproj|d:\\hclmockhackthon\\taskmanagementsystemasp\\taskmanagementsystemasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02DD9B37-54CC-49E8-9D7E-A8853B6C6D95}|TaskManagementSystemAsp\\TaskManagementSystemAsp.csproj|solutionrelative:taskmanagementsystemasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DD9B37-54CC-49E8-9D7E-A8853B6C6D95}|TaskManagementSystemAsp\\TaskManagementSystemAsp.csproj|d:\\hclmockhackthon\\taskmanagementsystemasp\\taskmanagementsystemasp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DD9B37-54CC-49E8-9D7E-A8853B6C6D95}|TaskManagementSystemAsp\\TaskManagementSystemAsp.csproj|solutionrelative:taskmanagementsystemasp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DD9B37-54CC-49E8-9D7E-A8853B6C6D95}|TaskManagementSystemAsp\\TaskManagementSystemAsp.csproj|d:\\hclmockhackthon\\taskmanagementsystemasp\\taskmanagementsystemasp\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DD9B37-54CC-49E8-9D7E-A8853B6C6D95}|TaskManagementSystemAsp\\TaskManagementSystemAsp.csproj|solutionrelative:taskmanagementsystemasp\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260416155903_InitialCreate.cs",
+              "DocumentMoniker": "D:\\HclMockHackthon\\TaskManagementSystemAsp\\TaskManagementSystemAsp\\Migrations\\20260416155903_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystemAsp\\Migrations\\20260416155903_InitialCreate.cs",
+              "ToolTip": "D:\\HclMockHackthon\\TaskManagementSystemAsp\\TaskManagementSystemAsp\\Migrations\\20260416155903_InitialCreate.cs",
+              "RelativeToolTip": "TaskManagementSystemAsp\\Migrations\\20260416155903_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T15:59:03.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HclMockHackthon\\TaskManagementSystemAsp\\TaskManagementSystemAsp\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystemAsp\\Program.cs",
+              "ToolTip": "D:\\HclMockHackthon\\TaskManagementSystemAsp\\TaskManagementSystemAsp\\Program.cs",
+              "RelativeToolTip": "TaskManagementSystemAsp\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T15:53:51.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "D:\\HclMockHackthon\\TaskManagementSystemAsp\\TaskManagementSystemAsp\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystemAsp\\Controllers\\TasksController.cs",
+              "ToolTip": "D:\\HclMockHackthon\\TaskManagementSystemAsp\\TaskManagementSystemAsp\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskManagementSystemAsp\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T15:56:27.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HclMockHackthon\\TaskManagementSystemAsp\\TaskManagementSystemAsp\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagementSystemAsp\\appsettings.json",
+              "ToolTip": "D:\\HclMockHackthon\\TaskManagementSystemAsp\\TaskManagementSystemAsp\\appsettings.json",
+              "RelativeToolTip": "TaskManagementSystemAsp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T15:55:06.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\HclMockHackthon\\TaskManagementSystemAsp\\TaskManagementSystemAsp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystemAsp\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\HclMockHackthon\\TaskManagementSystemAsp\\TaskManagementSystemAsp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TaskManagementSystemAsp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T15:53:17.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\HclMockHackthon\\TaskManagementSystemAsp\\TaskManagementSystemAsp\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystemAsp\\Models\\TaskItem.cs",
+              "ToolTip": "D:\\HclMockHackthon\\TaskManagementSystemAsp\\TaskManagementSystemAsp\\Models\\TaskItem.cs",
+              "RelativeToolTip": "TaskManagementSystemAsp\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T15:52:23.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
