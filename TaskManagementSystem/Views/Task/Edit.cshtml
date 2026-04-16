@@ -1,0 +1,21 @@
+﻿@model TaskItem
+
+<h2>Edit Task</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <label>Title</label>
+    <input asp-for="Title" />
+    <br />
+
+    <label>Description</label>
+    <input asp-for="Description" />
+    <br />
+
+    <label>Completed</label>
+    <input type="checkbox" asp-for="IsCompleted" />
+    <br />
+
+    <button type="submit">Update</button>
+</form>

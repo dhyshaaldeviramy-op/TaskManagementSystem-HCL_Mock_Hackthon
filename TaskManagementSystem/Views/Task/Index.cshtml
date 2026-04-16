@@ -1,0 +1,30 @@
+﻿@model IEnumerable<TaskItem>
+
+<h2>Task List</h2>
+
+<a href="/Task/Create">Add New Task</a>
+
+<table border="1">
+    <tr>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Status</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Title</td>
+            <td>@item.Description</td>
+            <td>
+                @(item.IsCompleted ? "Completed" : "Pending")
+            </td>
+            <td>
+                <a href="/Task/Edit/@item.Id">Edit</a> |
+                <a href="/Task/Delete/@item.Id">Delete</a> |
+                <a href="/Task/ToggleStatus/@item.Id">Toggle</a>
+            </td>
+        </tr>
+    }
+</table>
